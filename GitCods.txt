@@ -1,0 +1,23 @@
+git init - incia um reposiótio git, tornando a pasta seu reposótorio local;
+
+git add  - adiona as alterações ao repositório;
+
+git commit - commita os arquivos, salvando as alterações no repositório local;
+
+git push - envia as alterações para o repositório remoto;
+
+git pull - puxa as alterações do reposito remoto para o local;
+
+git clone - clona um reposiótio remoto para sua maquina;
+
+git restores nome-do-arquivo - restaura o arquivo ao último status salvo
+
+git commit —amend -m ‘nova mensage' - altera a mensagem do último commmit
+
+git checkout -b nome-da-branch - criar uma nova branch;
+
+git checkout <nome da branch> - retorna para branch selecionada
+
+git merge nome-da-branch - mescla a branch nomeada com a branch main
+
+git branch -d nome-da-branch - deleta a branch
